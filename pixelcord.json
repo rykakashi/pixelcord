@@ -3,7 +3,11 @@
         "name": "pixelcord",
         "author": "n#4799"
     },
-    "background": {},
+    "background": {
+        "overlay_alpha": 140,
+        "url": "https:\/\/media.discordapp.net\/attachments\/885847482477727764\/886199316803371058\/7ffa9bf7a982e3d1054264a8f0703ff8.jpg",
+        "blur_radius": 0
+    },
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/885500127878455306\/885681363741704192\/CozetteVector.otf"
     },
@@ -182,7 +186,6 @@
         "img_logo": -9270823,
         "img_logo_discord": -1,
         "ic_account_github": -13041409,
-        "ic_github_white": -131587,
         "ic_chat_bubble_light_grey_24dp": -8110684,
         "ic_chat_bubble_white_a60_24dp": -8110684,
         "drawable_overlay_channels_dark": -8110684,
