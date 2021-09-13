@@ -2,7 +2,7 @@
     "manifest": {
         "name": "pixelcord",
         "author": "n#4799",
-        "version": "1.1",
+        "version": "1.1.1",
         "license": "",
         "updater": "https://raw.githubusercontent.com/rykakashi/pixelcord/main/pixelcord.json"
     },
