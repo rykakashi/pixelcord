@@ -1,8 +1,8 @@
 {
     "manifest": {
         "name": "pixelcord",
-        "author": "n#4799",
-        "version": "1.1.1",
+        "author": "zeus.#0008",
+        "version": "1.1.10",
         "license": "",
         "updater": "https://raw.githubusercontent.com/rykakashi/pixelcord/main/pixelcord.json"
     },
