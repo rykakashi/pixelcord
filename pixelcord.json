@@ -1,25 +1,24 @@
 {
     "manifest": {
-        "name": "pixelcord",
+        "name": "pixelcrash",
         "author": "zeus.#0008",
-        "version": "1.1.12",
+        "version": "1.1.13",
         "license": "",
-        "updater": "https://raw.githubusercontent.com/rykakashi/pixelcord/main/pixelcord.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/rykakashi\/pixelcord\/main\/pixelcord.json"
     },
     "background": {
         "overlay_alpha": 140,
-        "url": "https://cdn.discordapp.com/attachments/881984631547789362/888166590678433833/fzUl.gif",
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/881984631547789362\/888166590678433833\/fzUl.gif",
         "blur_radius": 0
     },
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/885500127878455306\/885681363741704192\/CozetteVector.otf"
     },
     "simple_colors": {
-        "active_channel": -8110684,
         "mention_highlight": 844782170,
         "accent": -8110684,
-        "background_secondary": 864304548,
-        "statusbar": -15988456
+        "background_secondary": 855638016,
+        "background": 603979776
     },
     "colors": {
         "abc_hint_foreground_material_dark": -8110684,
@@ -37,28 +36,16 @@
         "brand_new_630": -8110684,
         "button_color_selector": -8110684,
         "cardview_dark_background": -8110684,
-        "dark_grey_2": -15988456,
         "focus_primary_500": -8110684,
         "grey_unread": -8110684,
         "link": -7901441,
         "link_light": -4096,
         "mtrl_btn_text_color_disabled": -43434,
-        "primary_500": -15988456,
-        "primary_600": -15988456,
-        "primary_630": -15988456,
-        "primary_660": -15988456,
-        "primary_700": -15988456,
-        "primary_800": -15988456,
-        "primary_dark_200": -16760065,
+        "primary_dark_200": -16711760,
         "primary_dark_300": -8110684,
         "primary_dark_330": -8110684,
         "primary_dark_360": -43434,
         "primary_dark_400": -8110684,
-        "primary_dark_600": -15988456,
-        "primary_dark_630": -15988456,
-        "primary_dark_660": -15988456,
-        "primary_dark_700": -15988456,
-        "primary_dark_800": -15988456,
         "primary_dark_material_light": -43434,
         "primary_text_disabled_material_dark": -43434,
         "secondary_text_default_material_dark": -43434,
