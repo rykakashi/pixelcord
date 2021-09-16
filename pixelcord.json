@@ -2,13 +2,13 @@
     "manifest": {
         "name": "pixelcord",
         "author": "zeus.#0008",
-        "version": "1.1.10",
+        "version": "1.1.11",
         "license": "",
         "updater": "https://raw.githubusercontent.com/rykakashi/pixelcord/main/pixelcord.json"
     },
     "background": {
         "overlay_alpha": 140,
-        "url": "https:\/\/media.discordapp.net\/attachments\/885847482477727764\/886199316803371058\/7ffa9bf7a982e3d1054264a8f0703ff8.jpg",
+        "url": "https://cdn.discordapp.com/attachments/881984631547789362/888166590678433833/fzUl.gif",
         "blur_radius": 0
     },
     "fonts": {
