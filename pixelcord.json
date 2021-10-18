@@ -1,8 +1,8 @@
 {
     "manifest": {
-        "name": "pixelcrash",
-        "author": "zeus.#0008",
-        "version": "1.1.13",
+        "name": "pixelcord",
+        "author": "agony#4035",
+        "version": "1.1.14",
         "license": "",
         "updater": "https:\/\/raw.githubusercontent.com\/rykakashi\/pixelcord\/main\/pixelcord.json"
     },
@@ -87,6 +87,7 @@
         "ic_channels_24dp": -8110684,
         "ic_file_upload_24dp": -8110684,
         "ic_mark_unread_24dp": -8110684,
+        "ic_mobile": -13041409,
         "ic_more_primary100_24dp": -8110684,
         "ic_more_primary900_24dp": -8110684,
         "ic_sidebar_notifications_on_dark_24dp": -8110684,
