@@ -1,0 +1,18 @@
+{
+    "manifest": {
+        "author": "឵n#4799",
+        "name": "Fonts",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/885500127878455306\/885681420637450361\/ContaPixel-Regular.ttf"
+    },
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {
+        "ic_crown_24dp": -2490290,
+        "test_custom_background": -8110684,
+        "drawable_bg_loading": -65536
+    }
+}
