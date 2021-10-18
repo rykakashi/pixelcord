@@ -57,7 +57,8 @@
         "uikit_btn_bg_color_selector_red": -43434,
         "uikit_btn_compound_color_selector_dark": -43434,
         "uikit_settings_item_text_color_dark": -16711753,
-        "channel_item_hub_selector": -8110684
+        "channel_item_hub_selector": -8110684,
+        "status_green": -13041409
     },
     "drawable_tints": {
         "drawable_bottom_up_primary_600_gradient": -6618881,
@@ -87,7 +88,6 @@
         "ic_channels_24dp": -8110684,
         "ic_file_upload_24dp": -8110684,
         "ic_mark_unread_24dp": -8110684,
-        "ic_mobile": -13041409,
         "ic_more_primary100_24dp": -8110684,
         "ic_more_primary900_24dp": -8110684,
         "ic_sidebar_notifications_on_dark_24dp": -8110684,
@@ -97,7 +97,7 @@
         "ic_unread_white_9dp_horiz": -8110684,
         "ic_upload_24dp": -8110684,
         "ic_uploads_generic_dark": -8110684,
-        "ic_status_24dp": -16716033,
+        "ic_status_24dp": -13041409,
         "ic_status_dnd_16dp": -65284,
         "ic_status_idle_16dp": -16777216,
         "ic_profile_badge_hypesquad_32dp": -2113994752,
@@ -180,6 +180,7 @@
         "ic_chat_bubble_light_grey_24dp": -8110684,
         "ic_chat_bubble_white_a60_24dp": -8110684,
         "drawable_overlay_channels_dark": -8110684,
-        "drawable_overlay_channels_active_dark": -8110684
+        "drawable_overlay_channels_active_dark": -8110684,
+        "ic_mobile": -13041409
     }
 }
